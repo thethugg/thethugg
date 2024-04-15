@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thethugg&label=Profile%20views&color=0e75b6&style=flat" alt="thethugg" /> </p>
 
-- 🔭 I’m currently working on [Microdosis Roleplay](none.com)
+- 🔭 I’m currently working on [Guatones Reborn]([none.com](https://discord.gg/proximamente-1192317468757209169))
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [FiveM](https://cfx.re/)
+- 🌱 I’m currently learning **VUE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
